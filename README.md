@@ -28,7 +28,8 @@ Specs without a set setting will keep the setting of the last used spec (default
 
 ## Authors
 
-* [Shushuda](https://github.com/Shushuda)
+* [Shushuda](https://github.com/Shushuda) - author of this addon
+* [Mundocani](https://github.com/Mundocani) - author of the MC2DebugLib library
 
 ## License
 
