@@ -1,0 +1,9 @@
+## Interface: 100002
+## Version: 1.0.0
+## Title: SelfCastSetter
+## Notes: Disable Self Cast setting on a given spec
+## Author: Shushuda
+## SavedVariables: SelfCastSetterDB
+
+Libs/MC2DebugLib/MC2DebugLib.lua
+SelfCastSetter.lua
