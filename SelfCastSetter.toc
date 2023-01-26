@@ -1,5 +1,5 @@
-## Interface: 100002
-## Version: 1.0.0
+## Interface: 100005
+## Version: 1.0.1
 ## Title: SelfCastSetter
 ## Notes: Disable Self Cast setting on a given spec
 ## Author: Shushuda
